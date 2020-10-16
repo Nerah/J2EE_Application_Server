@@ -13,7 +13,7 @@ J2EE Application - FastColis
 
 You will need a [**Wildfly**](https://www.wildfly.org/downloads/) server.
 
-Once you have configure it and deploy it, you will find the project there:
+Once you have configure it then deploy it, you will find the project there:
 
 ``http://localhost:8080/``
 
